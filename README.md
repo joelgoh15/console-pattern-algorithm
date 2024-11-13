@@ -15,4 +15,4 @@ Algorithm write out for various patterns done in console app.
 </p>
 
 ## Project Presentation
-https://github.com/user-attachments/assets/6fb36c4c-3d6a-43e4-834f-8bda6f9dee8f
+
