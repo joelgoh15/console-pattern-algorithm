@@ -1,4 +1,4 @@
-# Console Pattern Algorithm
+## Introduction
 Algorithm write out for various patterns done in console app.
 
 ## Technical Details
