@@ -1,6 +1,8 @@
 ## Introduction
 Algorithm write out for various patterns done in console app.
 
+Patterns includes checkerboard, triangles, rectangle, square, square, diamond shape patterns and christmas tree pattern.
+
 ## Technical Details
 <p>
   1. Technology stacks and approach used:
@@ -14,5 +16,3 @@ Algorithm write out for various patterns done in console app.
       </ul>
 </p>
 
-## Project Presentation
-https://github.com/user-attachments/assets/0e6101b4-d1f2-43a2-8340-f65165ab4812
